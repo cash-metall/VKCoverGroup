@@ -1,0 +1,6 @@
+D:\git\postvk\ppt2img-master\ppt2img-master\ppt2img\bin\Release\ppt2img.exe.config
+D:\git\postvk\ppt2img-master\ppt2img-master\ppt2img\bin\Release\ppt2img.exe
+D:\git\postvk\ppt2img-master\ppt2img-master\ppt2img\bin\Release\ppt2img.pdb
+D:\git\postvk\ppt2img-master\ppt2img-master\ppt2img\obj\Release\ppt2img.csprojResolveAssemblyReference.cache
+D:\git\postvk\ppt2img-master\ppt2img-master\ppt2img\obj\Release\ppt2img.exe
+D:\git\postvk\ppt2img-master\ppt2img-master\ppt2img\obj\Release\ppt2img.pdb
